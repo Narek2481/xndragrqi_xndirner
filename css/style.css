@@ -1,0 +1,16 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+td {
+    border: solid 3px black;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+th {
+    border: solid 3px black;
+    width: 100px;
+    height: 30px;
+}
